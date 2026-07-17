@@ -126,9 +126,9 @@ The application combines **secure authentication**, **real-time multiplayer game
 
 | Member |
 |:-------:|
-| 👨‍💻 **zsid-ele** |
 | 👨‍💻 **bhajili** |
 | 👨‍💻 **healtahi** |
+| 👨‍💻 **zsid-ele** |
 | 👨‍💻 **aradwan** |
 
 </div>
@@ -138,8 +138,6 @@ The application combines **secure authentication**, **real-time multiplayer game
 <div align="center">
 
 ### ⭐ "Building more than a game — creating a complete real-time platform."
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ft-transcendence&theme=github-compact&hide_border=true"/>
 
 <br>
 
